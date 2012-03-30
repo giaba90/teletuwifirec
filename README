@@ -6,7 +6,9 @@ tested working with python 2.6,might be compatible with other versions
 
 Microsoft
 
-download python for windows os at http://www.python.it/download/ double click on python-2.7.msi After installation, download teletuwifi-0.1.zip,extract the file in the directory. Now click start->cmd->cd teletuwifi-0.1 ->python teletuwifi-0.1.py
+download python for windows os at http://www.python.it/download/ double click on python-2.7.msi 
+After installation, download teletuwifi-0.1.zip,extract the file in the directory. 
+Now click start->cmd->cd teletuwifi-0.1 ->python teletuwifi-0.1.py
 
 Execution
 download the latest version
@@ -14,7 +16,10 @@ download the latest version
 usage:
 
 python teletuwifi-0.1.py <mac_addres> <file_input> 
+
 example
+
 python teletuwifi-0.1.py 00:23:8E:E5:28:C7 Tele2.txt
+
 Features
 probably i will developed built-in updater
