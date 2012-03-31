@@ -71,5 +71,4 @@ if __name__ == '__main__':
 	else:
 		mac_addr=sys.argv[1]
 		fin=sys.argv[2]
-		t=TeleTu()
-		t.crack(mac_addr,fin)
+		t=TeleTu().crack(mac_addr,fin)
